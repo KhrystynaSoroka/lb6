@@ -1,5 +1,5 @@
 
-users = ["Mark", "Tom", "Bob", "Alice", "Tom", "Bill", "Tom", "Alex" "Shaun", "Mark"]
+users = ["Mark", "Tom", "Bob", "Alice", "Tom", "Bill", "Tom", "Alex", "Shaun", "Mark"]
 
 count_tom = users.count("Tom")
 count_mark = users.count("Mark")
